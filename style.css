@@ -29,9 +29,6 @@ body {
     }
 
 }
-.adio{
-    
-}
 .container {
     width: 500px;
     height: 450px;
@@ -59,7 +56,7 @@ h1{
     position: relative;
     width: 350px;
     height: 500px;
-    margin-top: 30vh;
+    margin-top: 10vh;
     z-index: -2;
     display: flex;
     justify-content: center;
